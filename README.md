@@ -1,4 +1,4 @@
-# Arkarus_Gaming_Production
+# Arkarus_Game
 Smart Contract Repository for Arkarus Game
 
 All is gone. 
