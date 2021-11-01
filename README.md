@@ -1,9 +1,10 @@
 # Arkarus_Game
 
 Arkarus.sol <=> Main token using BEP-20
+Run file "Arkarus.sol" on https://remix.ethereum.org
 
 
--------------------------Game Story---------------------------
+-------------------------Game Story--------------------------
 
 All is gone. 
 An eruption of the galaxy biggest star, known as The Blast took the whole galaxy out of existence.
