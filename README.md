@@ -3,6 +3,8 @@
 Arkarus.sol <=> Main token using BEP-20
 Run file "Arkarus.sol" on https://remix.ethereum.org
 
+BEP-20 is a token standard on Binance Smart Chain that extends ERC-20, the most common Ethereum token standard. You can think of it as a blueprint for tokens that defines how they can be spent, who can spend them, and other rules for their usage. Due to its similarity to Binance Chain’s BEP-2 and Ethereum’s ERC-20, it’s compatible with both.
+
 
 -------------------------Game Story--------------------------
 
