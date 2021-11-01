@@ -1,5 +1,4 @@
 # Arkarus_Game
-Smart Contract Repository for Arkarus Game
 
 All is gone. 
 An eruption of the galaxy biggest star, known as The Blast took the whole galaxy out of existence.
